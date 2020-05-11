@@ -59,5 +59,5 @@ Application developed at <b>RocketSeat's Semana OmniStack 11.0</b>. The objectiv
 
 ## :memo: License
 
-This project is under MIT. See at here [LICENSE](https://github.com/edusmartins/be-the-hero/blob/master/LINCESE.txt) for more informations.
+This project is under MIT. See at here [LICENSE](LICENSE) for more informations.
  
